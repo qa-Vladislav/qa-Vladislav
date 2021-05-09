@@ -1,0 +1,3070 @@
+{
+	"id": "63fb415e-1edd-407e-8ab2-d24e90950129",
+	"name": "Практическое задание 8.6",
+	"timestamp": "2021-04-26T14:27:57.620Z",
+	"collection_id": "6914aa36-b96d-4158-8889-f6c5c5cb9fae",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 1134,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "3fe64da1-eaaa-482b-b4bd-76767259b334",
+			"name": "Auth",
+			"time": 3430,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Session token exists": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 81,
+					"fail": 0
+				},
+				"Session token exists": {
+					"pass": 81,
+					"fail": 0
+				}
+			},
+			"times": [
+				3580,
+				3374,
+				3454,
+				3494,
+				3360,
+				3514,
+				3404,
+				3437,
+				3427,
+				3381,
+				3453,
+				3454,
+				3412,
+				3479,
+				3533,
+				3357,
+				3430,
+				3253,
+				3383,
+				3275,
+				3386,
+				4133,
+				3936,
+				3525,
+				3466,
+				3563,
+				3486,
+				3518,
+				3572,
+				3527,
+				3486,
+				3234,
+				3658,
+				3576,
+				3568,
+				3578,
+				3637,
+				3505,
+				3361,
+				3294,
+				3511,
+				3442,
+				3492,
+				3430,
+				3536,
+				3335,
+				3379,
+				3409,
+				3618,
+				3532,
+				3442,
+				3350,
+				3305,
+				3363,
+				4229,
+				3470,
+				3391,
+				3462,
+				3502,
+				3651,
+				4253,
+				3449,
+				3407,
+				3255,
+				3293,
+				3423,
+				3356,
+				3390,
+				3329,
+				3430,
+				3567,
+				3550,
+				3467,
+				3439,
+				3396,
+				3409,
+				3418,
+				3563,
+				3410,
+				3493,
+				3430
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token exists": true
+				}
+			]
+		},
+		{
+			"id": "b76ac77b-8ed5-41bb-8fa3-beccdd47a23f",
+			"name": "Add pet",
+			"time": 3776,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 81,
+					"fail": 0
+				}
+			},
+			"times": [
+				3797,
+				3764,
+				3688,
+				3657,
+				3677,
+				3757,
+				3791,
+				5346,
+				3826,
+				3712,
+				3792,
+				3682,
+				3777,
+				3761,
+				3727,
+				3727,
+				3805,
+				3658,
+				3702,
+				3720,
+				3814,
+				3763,
+				3739,
+				3628,
+				3802,
+				4108,
+				3811,
+				3676,
+				3741,
+				3785,
+				3901,
+				3725,
+				3827,
+				3885,
+				3955,
+				3870,
+				3854,
+				3911,
+				3777,
+				4886,
+				3940,
+				3907,
+				3891,
+				3872,
+				4029,
+				3926,
+				3870,
+				3978,
+				3858,
+				3891,
+				3910,
+				3908,
+				3940,
+				4000,
+				3942,
+				3930,
+				3870,
+				3915,
+				5031,
+				3776,
+				3702,
+				3813,
+				3696,
+				3744,
+				3652,
+				3657,
+				3746,
+				3751,
+				3736,
+				3738,
+				3842,
+				3696,
+				3655,
+				3774,
+				3670,
+				3694,
+				3762,
+				3757,
+				5689,
+				3787,
+				3776
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "a5ba2ec3-c7e3-405a-87cd-af72ab2a931e",
+			"name": "/api/pets petid",
+			"time": 4409,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 81,
+					"fail": 0
+				}
+			},
+			"times": [
+				5106,
+				4376,
+				4442,
+				4433,
+				4459,
+				4412,
+				4404,
+				4363,
+				4508,
+				4323,
+				4328,
+				4473,
+				4535,
+				4383,
+				4494,
+				4457,
+				4399,
+				4385,
+				4233,
+				4316,
+				5212,
+				5117,
+				4884,
+				4475,
+				4523,
+				4708,
+				4554,
+				4510,
+				4589,
+				4565,
+				4326,
+				4605,
+				4601,
+				4775,
+				4603,
+				4545,
+				4447,
+				4446,
+				4363,
+				4902,
+				5189,
+				4464,
+				4521,
+				4363,
+				4490,
+				4467,
+				4464,
+				4567,
+				4492,
+				4489,
+				4409,
+				4354,
+				4349,
+				4378,
+				6387,
+				4442,
+				4500,
+				4345,
+				4514,
+				4407,
+				4458,
+				4335,
+				4402,
+				4330,
+				6426,
+				4373,
+				4318,
+				4426,
+				4379,
+				4503,
+				4549,
+				4482,
+				4437,
+				4583,
+				4511,
+				4551,
+				4471,
+				4421,
+				4394,
+				4490,
+				4409
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "85bfa49a-6007-4fd2-9e16-237892a65de8",
+			"name": "/api/pets change of pet",
+			"time": 3303,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Response has the name of the created pet": true,
+				"Test for the correct change in a pet's type": true,
+				"test for the correct change in a pet's age": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 81,
+					"fail": 0
+				},
+				"Response has the name of the created pet": {
+					"pass": 81,
+					"fail": 0
+				},
+				"Test for the correct change in a pet's type": {
+					"pass": 81,
+					"fail": 0
+				},
+				"test for the correct change in a pet's age": {
+					"pass": 81,
+					"fail": 0
+				}
+			},
+			"times": [
+				3345,
+				3318,
+				3328,
+				3306,
+				3259,
+				3345,
+				3392,
+				3418,
+				3348,
+				3333,
+				3302,
+				3359,
+				3353,
+				3404,
+				3369,
+				3304,
+				3368,
+				3312,
+				3318,
+				3352,
+				3260,
+				3430,
+				3693,
+				3370,
+				3339,
+				3473,
+				3367,
+				3656,
+				3355,
+				3336,
+				3346,
+				3348,
+				3682,
+				3431,
+				3368,
+				3373,
+				3433,
+				3423,
+				3338,
+				3440,
+				3331,
+				3331,
+				3329,
+				3597,
+				3330,
+				3417,
+				3463,
+				3635,
+				3369,
+				3299,
+				3359,
+				3376,
+				3299,
+				4431,
+				3439,
+				3354,
+				3431,
+				3385,
+				6310,
+				3493,
+				3347,
+				3412,
+				3355,
+				3320,
+				3589,
+				3385,
+				3280,
+				3315,
+				3335,
+				3341,
+				3385,
+				3349,
+				3288,
+				3343,
+				3346,
+				3296,
+				3342,
+				3333,
+				3369,
+				3353,
+				3303
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				},
+				{
+					"Status code is 200": true,
+					"Response has the name of the created pet": true,
+					"Test for the correct change in a pet's type": true,
+					"test for the correct change in a pet's age": true
+				}
+			]
+		},
+		{
+			"id": "b6e038f6-7f2e-452b-840b-a9bf336c1fcf",
+			"name": "Delete pet",
+			"time": 3678,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Response really has no data of created pet": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 81,
+					"fail": 0
+				},
+				"Response really has no data of created pet": {
+					"pass": 81,
+					"fail": 0
+				}
+			},
+			"times": [
+				3683,
+				3704,
+				3773,
+				3650,
+				3651,
+				3677,
+				3692,
+				3621,
+				3752,
+				3717,
+				3657,
+				3697,
+				3725,
+				3713,
+				3613,
+				3761,
+				3716,
+				3660,
+				3811,
+				3700,
+				3713,
+				3803,
+				3752,
+				3643,
+				3708,
+				3775,
+				3703,
+				3689,
+				3664,
+				3664,
+				3783,
+				3756,
+				3704,
+				3746,
+				3663,
+				3696,
+				3641,
+				3658,
+				3692,
+				3669,
+				3680,
+				3816,
+				3702,
+				3767,
+				3840,
+				3827,
+				3869,
+				3923,
+				3848,
+				3864,
+				3846,
+				3867,
+				3882,
+				4114,
+				3978,
+				3860,
+				3856,
+				3987,
+				7191,
+				3566,
+				3519,
+				3451,
+				3511,
+				3486,
+				3637,
+				3687,
+				3710,
+				3787,
+				3621,
+				3682,
+				3658,
+				3714,
+				3717,
+				3656,
+				3697,
+				3699,
+				3715,
+				3656,
+				3684,
+				3710,
+				3678
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				}
+			]
+		},
+		{
+			"id": "a633aede-eed9-47ea-90a9-4ada4c1d2529",
+			"name": "Alternative option check",
+			"time": 4529,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Response really has no data of created pet": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 81,
+					"fail": 0
+				},
+				"Response really has no data of created pet": {
+					"pass": 81,
+					"fail": 0
+				}
+			},
+			"times": [
+				4458,
+				6419,
+				4511,
+				4479,
+				4472,
+				4382,
+				4396,
+				4251,
+				4976,
+				4331,
+				4489,
+				4436,
+				4423,
+				4513,
+				4434,
+				4382,
+				4382,
+				4439,
+				4435,
+				4473,
+				4409,
+				4929,
+				4794,
+				4435,
+				4658,
+				4646,
+				4557,
+				4562,
+				4390,
+				4667,
+				4417,
+				4524,
+				4609,
+				4791,
+				4623,
+				4666,
+				4443,
+				4436,
+				4457,
+				4419,
+				4442,
+				4433,
+				4431,
+				4441,
+				4257,
+				4345,
+				4261,
+				4556,
+				4584,
+				4417,
+				4383,
+				4450,
+				4565,
+				4464,
+				4380,
+				4462,
+				4475,
+				4443,
+				12502,
+				4585,
+				4520,
+				4418,
+				4277,
+				4346,
+				4315,
+				4477,
+				4469,
+				4422,
+				4496,
+				4364,
+				4426,
+				4400,
+				4378,
+				4435,
+				4469,
+				4524,
+				4553,
+				4372,
+				4379,
+				4503,
+				4529
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				},
+				{
+					"Status code is 200": true,
+					"Response really has no data of created pet": true
+				}
+			]
+		},
+		{
+			"id": "4c3eb411-7a37-4b7b-b6ff-35d88495e5f9",
+			"name": "Log out",
+			"time": 3368,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Session token doesn't exist": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 81,
+					"fail": 0
+				},
+				"Session token doesn't exist": {
+					"pass": 81,
+					"fail": 0
+				}
+			},
+			"times": [
+				3403,
+				3372,
+				3379,
+				3367,
+				3413,
+				3474,
+				3438,
+				3250,
+				3539,
+				3443,
+				3477,
+				3372,
+				3398,
+				3657,
+				3407,
+				3425,
+				3329,
+				3628,
+				3338,
+				3527,
+				4345,
+				4009,
+				3668,
+				3501,
+				3561,
+				3499,
+				3503,
+				3468,
+				3601,
+				3589,
+				3415,
+				3621,
+				3570,
+				3658,
+				3695,
+				3545,
+				3553,
+				3451,
+				3375,
+				3460,
+				3398,
+				3382,
+				3431,
+				3366,
+				3468,
+				3459,
+				3544,
+				3510,
+				3514,
+				3594,
+				3539,
+				3368,
+				3456,
+				3420,
+				3383,
+				3364,
+				3403,
+				3441,
+				3493,
+				3432,
+				3385,
+				3407,
+				3338,
+				3402,
+				3482,
+				3298,
+				3483,
+				3276,
+				3424,
+				3581,
+				3476,
+				3427,
+				3442,
+				3420,
+				3376,
+				3427,
+				3492,
+				3399,
+				3484,
+				3505,
+				3368
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				},
+				{
+					"Status code is 200": true,
+					"Session token doesn't exist": true
+				}
+			]
+		}
+	],
+	"count": 81,
+	"totalTime": 2200754,
+	"collection": {
+		"requests": [
+			{
+				"id": "3fe64da1-eaaa-482b-b4bd-76767259b334",
+				"method": "POST"
+			},
+			{
+				"id": "b76ac77b-8ed5-41bb-8fa3-beccdd47a23f",
+				"method": "POST"
+			},
+			{
+				"id": "a5ba2ec3-c7e3-405a-87cd-af72ab2a931e",
+				"method": "GET"
+			},
+			{
+				"id": "85bfa49a-6007-4fd2-9e16-237892a65de8",
+				"method": "PUT"
+			},
+			{
+				"id": "b6e038f6-7f2e-452b-840b-a9bf336c1fcf",
+				"method": "DELETE"
+			},
+			{
+				"id": "a633aede-eed9-47ea-90a9-4ada4c1d2529",
+				"method": "GET"
+			},
+			{
+				"id": "4c3eb411-7a37-4b7b-b6ff-35d88495e5f9",
+				"method": "GET"
+			}
+		]
+	}
+}
